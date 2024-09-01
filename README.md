@@ -1,11 +1,6 @@
-# DoDaG
+# DoDaG - Data on Distance and Giving | ** README **
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Kuehl-KIT/DoDaG">DoDaG - Data on Distance and Giving</a> by <span property="cc:attributionName">Leonie Kühl, Nora Szech</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
-
-
-* * * * README * * *  *
-
-# DoDaG - Data on Distance and Giving 
 
 
 ## Overview
@@ -17,7 +12,8 @@
 
 ## Contents
 - **dodag_data.xls**: The main dataset containing all collected variables.
-- **README.txt**: This file providing an overview of the dataset and instructions for use.
+- **README.md**: This file provides an overview of the dataset and instructions for use.
+- **license.txt**: This file provides information about the CC-License under which this data is being published.
   
 
 ## Description of the Experiments
@@ -44,7 +40,7 @@
 
 
 ## Licensing and Access
-- **License**: CC BY 4.0 (Creative Commons Attribution 4.0 International). You are free to share and adapt the dataset as long as proper credit is given.
+- **License**: CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International). This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
 - **Citation**: Please cite this dataset as: Kuehl L, Szech N (2024). DoDaG - Data on Distance and Giving. https://github.com/Kuehl-KIT/DoDaG. DOI: [DOI link]
 
 
@@ -53,7 +49,7 @@ If you find errors in the data or have questions, please contact [Your Contact I
 
 
 ## Related Publications
-Kühl L., Szech N.: Physical distance and cooperativeness towards strangers, KIT Working Paper 110, November 2017. ISSN: 2190-9806. https://econpapers.wiwi.kit.edu/downloads/KITe_WP_110.pdf **
+Kühl L., Szech N.: Physical distance and cooperativeness towards strangers, KIT Working Paper 110, November 2017. ISSN: 2190-9806. https://econpapers.wiwi.kit.edu/downloads/KITe_WP_110.pdf
 
 
 ## Links and Resources

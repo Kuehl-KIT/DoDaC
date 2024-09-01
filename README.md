@@ -41,7 +41,7 @@
 
 ## Licensing and Access
 - **License**: CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International). This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.
-- **Citation**: Please cite this dataset as: Kuehl L, Szech N (2024). DoDaG - Data Set on Distance and Giving. [https://kitopen...]. DOI: [DOI link]
+- **Citation**: Please cite this dataset as: Kühl L., Szech N. (2024). DoDaG - Data Set on Distance and Giving. [https://kitopen...]. DOI: [DOI link]
 
 
 ## How to Report Issues

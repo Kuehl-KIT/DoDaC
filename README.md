@@ -45,7 +45,7 @@
 
 
 ## How to Report Issues
-If you find errors in the data or have questions, please contact [Your Contact Information] or report an issue via [repository issue tracker link].
+If you find errors in the data or have questions, please report an issue via https://github.com/Kuehl-KIT/DoDaG/issues.
 
 
 ## Related Publications

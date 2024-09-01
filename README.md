@@ -54,7 +54,7 @@ Kühl L., Szech N. (2017): Physical distance and cooperativeness towards strange
 
 ## Links and Resources
 - **Dataset Repository**: https://github.com/Kuehl-KIT/DoDaG
-- The repository contains the data set and further details.
+- The repository contains the data set and further information.
 
 
 ## Acknowledgments

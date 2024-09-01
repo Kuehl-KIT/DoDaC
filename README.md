@@ -11,7 +11,7 @@
 
 
 ## Contents
-- **DODAG_DATA.xls**: The two main datasets containing all collected variables.
+- **DODAG_DATA.xlsx**: The two main datasets containing all collected variables.
 - **README.md**: This file provides an overview of the dataset and instructions for use.
 - **LICENSE.txt**: This file provides information about the CC-License under which this data set is published.
   
